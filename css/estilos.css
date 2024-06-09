@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Brooklyn';
+    src: url('fuentes/Brooklyn.ttf');
+}
+@font-face {
+    font-family: 'Merich';
+    src: url('fuentes/Merich.otf');
+}
+body {
+    background-color: whitesmoke;
+    color: black;
+    list-style: inside;
+
+} 
+p,ol {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: 'Brooklyn';
+    color: orange;
+    font-size: 50x;
+    font-style: normal;
+    background-color: brown;
+}
+h2 {
+    font-family: 'Merich';
+    font-size: 20px;
+}
